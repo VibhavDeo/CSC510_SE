@@ -1,4 +1,4 @@
-| | | | |
+#####TEST
 |-|-|-|-|
 |MovieRecommender|Show sum after all scoring| | |
 |Notes|Score|Evidence|Yes/No|
@@ -9,21 +9,21 @@
 |Issues reports: there are many|3|28 issues reported(26 closed, 2 open issues): https://github.com/git-ankit/MovieRecommender/issues?q=is%3Aissue+is%3Aclosed| |
 |Issues are being closed|3|28 are closed: https://github.com/git-ankit/MovieRecommender/issues?q=is%3Aissue+is%3Aclosed| |
 |DOI badge: exists|3|README.md| |
-|Docs: doco generated, format not ugly|2|Formatting could have been better  https://github.com/git-ankit/MovieRecommender/wiki/Documentation| |
+|Docs: doco generated, format not ugly|2|Formatting could have been better https://github.com/git-ankit/MovieRecommender/wiki/Documentation| |
 |Docs: what: point descriptions of each class/function (in isolation)|3|https://github.com/git-ankit/MovieRecommender/wiki/item_based.py ,https://github.com/git-ankit/MovieRecommender/wiki/search.py| |
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2|The wiki document and video show the uses cases, however, do not see mini-tutorials for each use case| |
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2|https://github.com/git-ankit/MovieRecommender/wiki  The motivation pitch could have been better to larger audience| |
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2|https://github.com/git-ankit/MovieRecommender/wiki The motivation pitch could have been better to larger audience| |
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|https://www.youtube.com/watch?v=OSjpryqI1RQ| |
-|Use of version control tools|2|Used github. But could have used better release cycles  https://github.com/git-ankit/MovieRecommender/releases| |
-|Use of style checkers|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code  https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml|doubt- they havent used any style checker but I found this|
-|Use of code formatters.|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code  https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
-|Use of syntax checkers.|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code  https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
-|Use of code coverage|3|100% code coverage can be seen on README  https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
+|Use of version control tools|2|Used github. But could have used better release cycles https://github.com/git-ankit/MovieRecommender/releases| |
+|Use of style checkers|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml|doubt- they havent used any style checker but I found this|
+|Use of code formatters.|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
+|Use of syntax checkers.|2|pylance package for python (VS code), black for auto-styling and auto-formatting the code https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
+|Use of code coverage|3|100% code coverage can be seen on README https://github.com/git-ankit/MovieRecommender/blob/master/.travis.yml| |
 |Other automated analysis tools|0|Not found| |
 |Test cases exist|3|https://github.com/git-ankit/MovieRecommender/tree/master/test| |
 |Test cases are routinely executed|0|https://github.com/git-ankit/MovieRecommender/actions| |
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|https://github.com/git-ankit/MovieRecommender/blob/master/CONTRIBUTING.md| |
-|Issues are discussed before they are closed|2|https://github.com/git-ankit/MovieRecommender/issues?q=is%3Aissue+is%3Aclosed  Extensive discussions not found, however, short descriptions are present| |
+|Issues are discussed before they are closed|2|https://github.com/git-ankit/MovieRecommender/issues?q=is%3Aissue+is%3Aclosed Extensive discussions not found, however, short descriptions are present| |
 |Chat channel: exists|0|Not found| |
 |Test cases: a large proportion of the issues related to handling failing cases.|2|https://github.com/het-patel99/Recipe_Recommender/tree/master/test Some test cases are found| |
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|https://github.com/git-ankit/MovieRecommender/graphs/contributors| |
@@ -70,11 +70,11 @@
 |b) Does your software use an accepted coding standard or convention?| | |yes|
 | | | | |
 |Open standards and your software| | | |
-|a) Does your software allow data to be imported and exported using open data formats?  e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones| | |yes|
-|b) Does your software allow communications using open communications protocols?  e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones| | |yes|
+|a) Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones| | |yes|
+|b) Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones| | |yes|
 | | | | |
 |Your software's portability| | | |
-|a) Is your software cross-platform compatible?  e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?| | |yes|
+|a) Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?| | |yes|
 | | | | |
 |Your software and accessibility| | | |
 |a) Does your software adhere to appropriate accessibility conventions or standards?| | |yes|
@@ -89,12 +89,12 @@
 | | | | |
 |Building and installing your software| | | |
 |a) Do you provide publicly-available instructions for building your software from the source code?| | |yes|
-|b) Can you build, or package, your software using an automated tool?  e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)| | |yes|
+|b) Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)| | |yes|
 |c) Do you provide publicly-available instructions for deploying your software?| | |yes|
 |d) Does your documentation list all third-party dependencies?| | |yes|
 |e) Does your documentation list the version number for all third-party dependencies?| | |yes|
 |f) Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?| | |no|
-|g) Can you download dependencies using a dependency management tool or package manager?  e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)| | |yes|
+|g) Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)| | |yes|
 |h) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?| | |yes|
 | | | | |
 |How you test your software| | | |
@@ -105,7 +105,7 @@
 |e) Are all manually-run tests documented?| | |no|
 | | | | |
 |How you engage with your community| | | |
-|a) Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?  e.g. release announcements, publications, workshops, conference presentations| | |no|
+|a) Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations| | |no|
 |b) Does your website state how many projects and users are associated with your project?| | |no|
 |c) Do you provide success stories on your website?| | |no|
 |d) Do you list your important partners and collaborators on your website?| | |no|
