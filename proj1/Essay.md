@@ -1,3 +1,5 @@
+## Pain Points
+
 Running and choosing a project was initially a difficult task for our team. Running five projects provided us with valuable insights into the importance of adhering to a structured set of rules and guidelines and maintaining proper documentation for software development. The experience was not without its share of challenges. These challenges ranged from package dependency issues to incorrect installation steps and faulty ‘requirements.txt’ files. 
 
 One of the first major hurdles we encountered was related to package dependencies. Even though the project's documentation provided the command to install the required packages (pip install -r requirements.txt), we faced difficulties due to pre-installed packages on our systems, leading to version conflicts. For instance, the Pymongo package presented compatibility issues. It took us considerable time and discussion to find this error. Ultimately, we resolved it by uninstalling Pymongo and then reinstalling it through the requirements.txt command. A similar issue arose with the MongoDB installation, which was resolved by reinstalling the MongoDB application.
