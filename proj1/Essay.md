@@ -1,4 +1,4 @@
-## Pain Points
+## Pain Points and Learnings
 
 Running and choosing a project was initially a difficult task for our team. Running five projects provided us with valuable insights into the importance of adhering to a structured set of rules and guidelines and maintaining proper documentation for software development. The experience was not without its share of challenges. These challenges ranged from package dependency issues to incorrect installation steps and faulty ‘requirements.txt’ files. 
 

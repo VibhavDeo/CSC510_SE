@@ -1,5 +1,5 @@
 # Project Overview
-CalorieApp is an easy to use application that keeps track of a user's daily calories gained and burnt. It can help the user to set goals such as weight loss/gain. Users can edit their profile by entering their height, weight, goal and target-weight. Users can enroll into numerous programs involving fitness such as yoga classes and workout sessions. Users can now connect with their friends by sending a friend-request and share their progress. This document provides a major perspective for the users to understand and take up the project as an Open source software and add on multiple features before releasing to the market. Also, the document aids the developers in understanding the code and acts as a reference point for continuing the project.
+CalorieApp is an easy to use application that keeps track of a user's daily calories gained and burnt. It can help the user to set goals such as weight loss/gain where users can edit their profile by entering their height, weight, goal and target-weight. Users can also enroll into numerous programs involving fitness such as yoga classes and workout sessions. The application allows users can now connect with their friends by sending a friend-request and share their progress.
 
 # Video Demo
 You can watch the video demo of the CalorieApp project [here](https://youtu.be/kMtxZ3KwZyY).
